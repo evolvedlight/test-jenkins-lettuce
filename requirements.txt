@@ -1,1 +1,1 @@
-lettuce
+-e git+git://github.com/evolvedlight/lettuce.git#egg=lettuce
